@@ -1,5 +1,5 @@
 # ruby-interview-exercise
-:bicyclist: JavaScript exercise for Sleep Number interviewees
+:bicyclist: Ruby exercise for Sleep Number interviewees
 
 ## Instructions
 Convert an array of `Person` objects into a tree of `PersonTreeNode` objects.
@@ -8,7 +8,7 @@ Convert an array of `Person` objects into a tree of `PersonTreeNode` objects.
 
 1. Clone the repository
 3. Open `person.rb`, `person_tree_node.rb`, and `answer.rb` in your favorite editor
-4. Add your code to the `generate_tree` function in `answer.rb`
+4. Add your code to the `generate_tree` method in `answer.rb`
 
 ### Solving the Problem
 
